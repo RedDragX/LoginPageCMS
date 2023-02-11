@@ -264,7 +264,7 @@ iframe {
 .wrap-login100 {
     width: 960px;
     background: #fff;
-    background-image: url(/images/conference.png);
+    background-image: url(conference.png);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px;
