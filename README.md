@@ -1,5 +1,6 @@
 # LoginPageCMS
-This is our Group 04 project, SMIT.
+This is our project login page :
+https://reddragx.github.io/LoginPageCMS/
 
-I havent loaded the final version yet
+I havent loaded the final version yet.
 
